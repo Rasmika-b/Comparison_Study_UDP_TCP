@@ -26,9 +26,9 @@ has four fields, each of which is 2 bytes. They are the following:
 - checksum, which is used in error checking -- its use is required in IPv6 and optional 
 in IPv4.
 
-MOdel Diagram:
+Model Diagram:
 
-<img src="https://github.com/Rasmika-b/Comparison_Study_UDP_TCP/assets/60094457/506957b1-9eca-4f7e-bd30-fd40c5a77527" width="300"/>
+<img src="/img/udp_model.PNG" width="300"/>
 
 How UDP works: 
 
