@@ -24,7 +24,7 @@ into a file and delivers the file to the receiving application.
 
 TCP Model:
 
-<img src="https://github.com/Rasmika-b/Comparison_Study_UDP_TCP/assets/60094457/1ed83e99-f4eb-4b7c-899a-ee7719a8149c" width="300"/>
+<img src="/img/tcp_model.PNG" width="300"/>
 
 What TCP is used for: 
 
